@@ -4,6 +4,7 @@ import { FaPaw } from 'react-icons/fa'
 
 const links = [
   { title: 'Cursos Online(em breve)', url: 'https://cursos.felixpet.com.br' },
+  { title: 'Site Oficial', url: 'https://www.felixpet.com.br' },
   { title: 'Consultoria', url: 'https://wa.me/5511993285473?text=Ol%C3%A1%20Felix%2C%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20a%20consultoria.' },
   // { title: 'Materiais Gratuitos', url: 'https://example.com/materiais' },
   { title: 'Blog', url: 'https://blog.felixpet.com.br' },
